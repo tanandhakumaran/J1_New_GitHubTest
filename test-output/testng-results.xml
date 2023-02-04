@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AllSuite" duration-ms="11944" started-at="2023-02-01T18:53:24 IST" finished-at="2023-02-01T18:53:36 IST">
+    <groups>
+    </groups>
+    <test name="Google Test" duration-ms="7510" started-at="2023-02-01T18:53:24 IST" finished-at="2023-02-01T18:53:32 IST">
+      <class name="a1_googleTest.A1_GoogleTest">
+        <test-method status="PASS" signature="verifyGooglePage()[pri:0, instance:a1_googleTest.A1_GoogleTest@42eca56e]" name="verifyGooglePage" duration-ms="7479" started-at="2023-02-01T18:53:24 IST" finished-at="2023-02-01T18:53:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGooglePage -->
+      </class> <!-- a1_googleTest.A1_GoogleTest -->
+    </test> <!-- Google Test -->
+    <test name="Bing Test" duration-ms="4421" started-at="2023-02-01T18:53:32 IST" finished-at="2023-02-01T18:53:36 IST">
+      <class name="a2_bingTest.A1_BingTest">
+        <test-method status="PASS" signature="verifyGooglePage()[pri:0, instance:a2_bingTest.A1_BingTest@319b92f3]" name="verifyGooglePage" duration-ms="4419" started-at="2023-02-01T18:53:32 IST" finished-at="2023-02-01T18:53:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGooglePage -->
+      </class> <!-- a2_bingTest.A1_BingTest -->
+    </test> <!-- Bing Test -->
+  </suite> <!-- AllSuite -->
+</testng-results>
